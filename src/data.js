@@ -10,7 +10,7 @@ function Chillhop() {
       id: uuidv4(),
       active: true,
       color: ["#501718", "#0D2122"],
-      audio: "https://www.hungama.com/song/bol-do-na-zara/18026086/",
+      audio: "https://www.hungama.com/song/link/49279271/",
     },
     {
       name: "Buddhu-Sa-Mann",
