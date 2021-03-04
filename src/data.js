@@ -20,7 +20,7 @@ function Chillhop() {
       id: uuidv4(),
       active: false,
       color: ["#865446", "#C3AB8D"],
-      audio: "https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB?si=0a18d9415b9242e7",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=12125",
     },
     {
       name: "Titliyan",
@@ -30,7 +30,7 @@ function Chillhop() {
       id: uuidv4(),
       active: false,
       color: ["#C5FDD6", "#D3806E"],
-      audio: "https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1?si=497099c99b014eed",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8036",
     },
     {
       name: "	Go Go Govinda",
@@ -40,7 +40,7 @@ function Chillhop() {
       id: uuidv4(),
       active: false,
       color: ["#501718", "#0D2122"],
-      audio: "https://open.spotify.com/track/1UzYybFkJcyvB2hkL129GA?si=87f79851b04740b5",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8105",
     },
     {
       name: "Dekha Hazaro Dafaa",
@@ -50,7 +50,7 @@ function Chillhop() {
       id: uuidv4(),
       active: false,
       color: ["#8093FF", "#06004D"],
-      audio: "https://open.spotify.com/track/7AV1hh76pC1mg4iSH796Vp?si=d38c2f3a114c4bf5",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=12128",
     },
     {
       name: "Babuji Zara Dheere Chalo",
@@ -60,7 +60,7 @@ function Chillhop() {
       id: uuidv4(),
       active: false,
       color: ["#91C9D8", "#1F1C36"],
-      audio: "https://open.spotify.com/track/6tBw0YriaKSzUr5M8xXH2H?si=9687c21aa97b44f8",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=9285",
     },
     {
       name: "Aankh Marey",
@@ -70,7 +70,7 @@ function Chillhop() {
       id: uuidv4(),
       active: false,
       color: ["#E29C97", "#601B5C"],
-      audio: "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm?si=7f928e47268a4bc7",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10032",
     },
     {
       name: "Jai Jai Shivshankar",
@@ -80,7 +80,7 @@ function Chillhop() {
       id: uuidv4(),
       active: false,
       color: ["#6C7676", "#3D5172"],
-      audio: "https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy?si=c9a30a86cce7408d",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=9222",
     },
     {
       name: "Bhangra Ta Sajda",
@@ -90,7 +90,7 @@ function Chillhop() {
       id: uuidv4(),
       active: false,
       color: ["#FACEB5", "#C7582B"],
-      audio: "https://open.spotify.com/track/4ms4RFmu8rQRPekGr2ru4S?si=19f7682cb5e74059",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=11248",
     },
     {
       name: "Manali Trance",
@@ -100,7 +100,7 @@ function Chillhop() {
       id: uuidv4(),
       active: false,
       color: ["#E2C6D4", "#133362"],
-      audio: "https://open.spotify.com/track/4n1fgIJ6WtHxfBimbDav8v?si=bf69512803074589",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=7966",
     },
   ];
 }
