@@ -1,6 +1,6 @@
 import { v4 as uuidv4 } from "uuid";
 
-function spotify() {
+function Chillhop() {
   return [
     {
       name: "Bol Do Na Zara",
@@ -105,4 +105,4 @@ function spotify() {
   ];
 }
 
-export default spotify;
+export default Chillhop;
