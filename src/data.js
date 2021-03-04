@@ -1,108 +1,108 @@
 import { v4 as uuidv4 } from "uuid";
 
-function Chillhop() {
+function chillHop() {
   return [
     {
-      name: "Bol Do Na Zara",
-      artist: "Armaan Malik",
+      name: "Lax Incense",
+      artist: "Mama Aiuto, Daphné",
       cover:
-        "https://cdn.pagalworld.icu/1298-bol-do-na-zara.jpg",
+        "https://chillhop.com/wp-content/uploads/2021/01/6b1bb8736ee3e972747bc11f312e31cf7f5823e4-1024x1024.jpg",
       id: uuidv4(),
       active: true,
       color: ["#501718", "#0D2122"],
-      audio: "https://open.spotify.com/track/6eO9LvEiMqh1CAsa6y3wXP?si=93b29ec46bb7461b",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=12125",
     },
     {
-      name: "Buddhu-Sa-Mann",
-      artist: "Armaan Malik",
+      name: "Plants",
+      artist: "Philanthrope, Ian Ewing, Sleepy Fish",
       cover:
-        "https://cdn.pagalworld.icu/1276-buddhu-sa-mann-small.jpg",
+        "https://chillhop.com/wp-content/uploads/2020/09/2899f7cc22ab12e17d0119819aac3ca9dbab46e6-1024x1024.jpg",
       id: uuidv4(),
       active: false,
       color: ["#865446", "#C3AB8D"],
-      audio: "https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB?si=0a18d9415b9242e7",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8036",
     },
     {
-      name: "Titliyan",
-      artist: "Sunidhi Chauhan",
+      name: "After Dark",
+      artist: "Sugi.wa",
       cover:
-        "https://cdn.pagalworld.icu/1289-titliyan-small.jpg",
+        "https://chillhop.com/wp-content/uploads/2020/07/be9e5dca9d4c9015c407a2d2590af8a0e5e278ce-1024x1024.jpg",
       id: uuidv4(),
       active: false,
       color: ["#C5FDD6", "#D3806E"],
-      audio: "https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1?si=497099c99b014eed",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8105",
     },
     {
-      name: "	Go Go Govinda",
-      artist: "Shreya Ghoshal",
+      name: "Today Feels Like Everyday",
+      artist: "Mama Aiuto",
       cover:
-        "https://cdn.pagalworld.icu/3609-go-go-govinda-small.jpg",
+        "https://chillhop.com/wp-content/uploads/2021/01/6b1bb8736ee3e972747bc11f312e31cf7f5823e4-1024x1024.jpg",
       id: uuidv4(),
       active: false,
       color: ["#501718", "#0D2122"],
-      audio: "https://open.spotify.com/track/1UzYybFkJcyvB2hkL129GA?si=87f79851b04740b5",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=12128",
     },
     {
-      name: "Dekha Hazaro Dafaa",
-      artist: "Arijit Singh",
+      name: "Calm",
+      artist: "ØDYSSEE, Florent Garcia",
       cover:
-        "https://cdn.pagalworld.icu/1469-dekha-hazaro-dafaa-small.jpg",
+        "https://chillhop.com/wp-content/uploads/2020/06/d9d8ae69141cb7838e3c53bbf393c6218285e384-1024x1024.jpg",
       id: uuidv4(),
       active: false,
       color: ["#8093FF", "#06004D"],
-      audio: "https://open.spotify.com/track/7AV1hh76pC1mg4iSH796Vp?si=d38c2f3a114c4bf5",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=9285",
     },
     {
-      name: "Babuji Zara Dheere Chalo",
-      artist: "Sonu Kakkar,",
+      name: "Backyard Puddles",
+      artist: "Sleepy Fish",
       cover:
-        "https://cdn.pagalworld.icu/7069-babuji-zara-dheere-chalo-small.jpg",
+        "https://chillhop.com/wp-content/uploads/2020/09/c209a7df7b9bc133dfff73ce86ebc3c57c2b73dd-1024x1024.jpg",
       id: uuidv4(),
       active: false,
       color: ["#91C9D8", "#1F1C36"],
-      audio: "https://open.spotify.com/track/6tBw0YriaKSzUr5M8xXH2H?si=9687c21aa97b44f8",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10032",
     },
     {
-      name: "Aankh Marey",
-      artist: "Kumar Sanu",
+      name: "Keep Going",
+      artist: "Swørn",
       cover:
-        "https://cdn.pagalworld.icu/689-aankh-marey-small.jpg",
+        "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
       id: uuidv4(),
       active: false,
       color: ["#E29C97", "#601B5C"],
-      audio: "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm?si=7f928e47268a4bc7",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=9222",
     },
     {
-      name: "Jai Jai Shivshankar",
-      artist: "Vishal Dadlani",
+      name: "Cloud Carpets",
+      artist: "The Field Tapes, Ezzy, Wowflower",
       cover:
-        "https://cdn.pagalworld.icu/7858-jai-jai-shivshankar-small.jpg",
+        "https://chillhop.com/wp-content/uploads/2020/11/8a0c857ddad531279d0757f5362380a6837b1b69-1024x1024.jpg",
       id: uuidv4(),
       active: false,
       color: ["#6C7676", "#3D5172"],
-      audio: "https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy?si=c9a30a86cce7408d",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=11248",
     },
     {
-      name: "Bhangra Ta Sajda",
-      artist: "Neha Kakkar",
+      name: "Oceania",
+      artist: "chromonicci",
       cover:
-        "https://cdn.pagalworld.icu/428-bhangra-ta-sajda-small.jpg",
+        "https://chillhop.com/wp-content/uploads/2020/05/260a909fca701bbb7593f5f8f9cff9508cca2856-1024x1024.jpg",
       id: uuidv4(),
       active: false,
       color: ["#FACEB5", "#C7582B"],
-      audio: "https://open.spotify.com/track/4ms4RFmu8rQRPekGr2ru4S?si=19f7682cb5e74059",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=7966",
     },
     {
-      name: "Manali Trance",
-      artist: "Neha Kakkar",
+      name: "Ocean View",
+      artist: "G Mills, Kyle McEvoy, Luke Otwell",
       cover:
-        "https://cdn.pagalworld.icu/2686-manali-trance-small.jpg",
+        "https://chillhop.com/wp-content/uploads/2020/10/0e5bb63f838ff92eeac142aae944e9f678df13c9-1024x1024.jpg",
       id: uuidv4(),
       active: false,
       color: ["#E2C6D4", "#133362"],
-      audio: "https://open.spotify.com/track/4n1fgIJ6WtHxfBimbDav8v?si=bf69512803074589",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10320",
     },
   ];
 }
 
-export default Chillhop;
+export default chillHop;
