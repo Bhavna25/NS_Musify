@@ -10,7 +10,7 @@ function Chillhop() {
       id: uuidv4(),
       active: true,
       color: ["#501718", "#0D2122"],
-      audio: "https://open.spotify.com/track/6eO9LvEiMqh1CAsa6y3wXP?si=2a29518f82b54f6f",
+      audio: "https://open.spotify.com/track/6eO9LvEiMqh1CAsa6y3wXP?si=46d021c07f3a4fa9",
     },
     {
       name: "Buddhu-Sa-Mann",
